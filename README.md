@@ -11,7 +11,7 @@
 > 🙏 **声明**：本人只是一个搬运工，脚本灵感来源于网络上的各种优秀项目，特别感谢 [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) 八合一脚本的启发。
 
 ---
-💬 [Telegram 交流群](https://t.me/vless_vaio)
+ 
 
 ## ✨ 支持协议
 
@@ -80,7 +80,7 @@
 ### 一键安装服务端
 
 ```bash
-wget -O vless-server.sh https://raw.githubusercontent.com/Chil30/vless-all-in-one/main/vless-server.sh && bash vless-server.sh
+wget -O vless-server.sh https://raw.githubusercontent.com/jiam9069/vless-all-in-one/refs/heads/main/vless-server.sh && bash vless-server.sh
 ```
 
 ### 服务端安装
@@ -97,10 +97,7 @@ vless
 - **分享链接** - 可导入 v2rayN、Clash、小火箭等
 - **二维码** - 手机扫码导入
 - **订阅链接** - Clash/Surge/V2Ray/Loon 订阅
-
-### 客户端脚本
-
-Linux 客户端脚本已移至 [Releases](https://github.com/Chil30/vless-all-in-one/releases) 页面下载。
+ 
 
 ---
 
